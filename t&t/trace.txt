@@ -1,0 +1,31 @@
+-----  Stop and Wait Network Simulator Version 1.1 -------- 
+
+Enter the number of messages to simulate: 10
+Enter  packet loss probability [enter 0.0 for no loss]: 10029152.000000
+Enter packet corruption probability [0.0 for no corruption]: 10029152.000000
+Enter average time between messages from sender's layer5 [ > 0.0]: 10029152.000000
+Enter TRACE: 2
+
+EVENT time: 938425.250000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 16124019.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 28597790.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 38610108.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 50174224.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 57062132.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 60403244.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 69706696.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 76870680.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 88212584.000000,  type: 1, fromlayer5  entity: 0
+
+EVENT time: 89106936.000000,  type: 1, fromlayer5  entity: 0
+ Simulator terminated at time 89106936.000000
+ after sending 10 msgs from layer5
